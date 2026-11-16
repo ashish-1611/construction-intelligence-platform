@@ -1,0 +1,9 @@
+{
+  "_note": "Indicative market rates in INR. Edit to match your city and current supplier quotes.",
+  "material_rates": {"cement": 400, "steel": 65, "sand": 55, "aggregate": 45, "bricks": 9},
+  "labour_per_sqft": {"economy": 350, "standard": 450, "premium": 600},
+  "finishing_per_sqft": {"economy": 600, "standard": 1100, "premium": 2000},
+  "overhead_pct": 8,
+  "contingency_pct": 5,
+  "gst_pct": 18
+}

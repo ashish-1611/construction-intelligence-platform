@@ -1,0 +1,12 @@
+{
+  "_note": "Preliminary thumb-rule quantities per sq ft of total built-up area for RCC framed residential construction in India. Accuracy is roughly +/-15-20%. Replace with project BOQ values for real procurement.",
+  "per_sqft": {
+    "cement":    {"name": "Cement (50 kg bags)", "unit": "bags", "qty": 0.40},
+    "steel":     {"name": "Reinforcement steel", "unit": "kg",   "qty": 4.00},
+    "sand":      {"name": "Sand",                "unit": "cft",  "qty": 1.80},
+    "aggregate": {"name": "Coarse aggregate",    "unit": "cft",  "qty": 1.35},
+    "bricks":    {"name": "Bricks",              "unit": "nos",  "qty": 8.00}
+  },
+  "quality_multiplier": {"economy": 0.92, "standard": 1.00, "premium": 1.12},
+  "extra_floor_uplift": {"cement": 0.04, "steel": 0.08, "sand": 0.0, "aggregate": 0.04, "bricks": 0.0}
+}
